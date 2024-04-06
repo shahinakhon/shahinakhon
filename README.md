@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shahina</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate web and game developer</h3>
 
 - 🔭 I’m currently working on **Recursion Java project**
 
 - 🌱 I’m currently learning **React JS and Data Algorithms**
+- 👯 I’m looking to collaborate on python Chess Game it need more user interface and any upgrades are welcome
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
